@@ -6,11 +6,11 @@
 
 언어 : python, C++
 
-Used Tools:
+Used Tools :
 
-Ubuntu, ROS, MORAI, GAZEBO, Turtlebot
-
-Raspiberry PI, Arduino, Matlab, Visual Studio Code, Pycharm, LabVIEW, 2D CAD, 3D CAD
+  Ubuntu, ROS, MORAI, GAZEBO, Turtlebot
+  
+  Raspiberry PI, Arduino, Matlab, Visual Studio Code, Pycharm, LabVIEW, 2D CAD, 3D CAD
 
 관심분야 : 자율주행
 
