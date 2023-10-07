@@ -8,9 +8,9 @@
 
 Used Tools :
 
-  Ubuntu, ROS, MORAI, GAZEBO, Turtlebot
+      Ubuntu, ROS, MORAI, GAZEBO, Turtlebot
   
-  Raspiberry PI, Arduino, Matlab, Visual Studio Code, Pycharm, LabVIEW, 2D CAD, 3D CAD
+      Raspiberry PI, Arduino, Matlab, Visual Studio Code, Pycharm, LabVIEW, 2D CAD, 3D CAD
 
 관심분야 : 자율주행
 
