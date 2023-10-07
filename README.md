@@ -1,25 +1,29 @@
 ### Hi there 👋
 
-### 대학교 : <br />
+### 대학교 : 
 한국공학대학교(한국산업기술대학교)
 
-### 전공 : 기계공학과/(부)미래자동차공학과
+### 전공 : 
+기계공학과/(부)미래자동차공학과
 
-### 언어 : python, C++
+### 언어 : 
+python, C++
 
-### Language : OPIC IM2
+### Language : 
+OPIC IM2
 
 ### Used Tools :
+Ubuntu, ROS, MORAI, GAZEBO, Turtlebot
+Raspiberry PI, Arduino, Matlab, Visual Studio Code, Pycharm, LabVIEW, 2D CAD, 3D CAD
 
-      Ubuntu, ROS, MORAI, GAZEBO, Turtlebot
-  
-      Raspiberry PI, Arduino, Matlab, Visual Studio Code, Pycharm, LabVIEW, 2D CAD, 3D CAD
+### 관심분야 : 
+자율주행
 
-### 관심분야 : 자율주행
+### 교육 이수 :
+H-Mobility Class 자율주행 3기 수료, Programmers Devcourse 자율주행 제어 1기 이수중.
 
-### 교육 이수 : H-Mobility Class 자율주행 3기 수료, Programmers Devcourse 자율주행 제어 1기 이수중.
-
-### e-mail : https://jungchunpark97@gmail.com
+### e-mail : 
+https://jungchunpark97@gmail.com
 
 <br />
 <br />
