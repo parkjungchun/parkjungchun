@@ -6,6 +6,8 @@
 
 언어 : python, C++
 
+Language : OPIC IM2
+
 Used Tools :
 
       Ubuntu, ROS, MORAI, GAZEBO, Turtlebot
@@ -13,6 +15,8 @@ Used Tools :
       Raspiberry PI, Arduino, Matlab, Visual Studio Code, Pycharm, LabVIEW, 2D CAD, 3D CAD
 
 관심분야 : 자율주행
+
+교육 이수 : H-Mobility Class 자율주행 3기 수료, Programmers Devcourse 자율주행 제어 1기 수료.
 
 e-mail : https://jungchunpark97@gmail.com
 
