@@ -16,7 +16,7 @@ Used Tools :
 
 관심분야 : 자율주행
 
-교육 이수 : H-Mobility Class 자율주행 3기 수료, Programmers Devcourse 자율주행 제어 1기 수료.
+교육 이수 : H-Mobility Class 자율주행 3기 수료, Programmers Devcourse 자율주행 제어 1기 이수중.
 
 e-mail : https://jungchunpark97@gmail.com
 
