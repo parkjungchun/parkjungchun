@@ -1,6 +1,6 @@
 # Welcome
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&text=Woojin's%20Github👋🏻&animation=twinkling&fontsize=5&height=150)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&text=parkjungchun's%20Github👋🏻&animation=twinkling&fontsize=5&height=150)
 
 #
 
