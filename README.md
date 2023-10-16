@@ -25,12 +25,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/C-EF5C55?style=flat&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-37814A?style=flat&logo=Celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/C Sharp-007396?style=flat&logo=C Sharp&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/JavaScript-007396?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=Android&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-6100A5?style=flat&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 </div>
 
 </div>
