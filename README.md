@@ -5,11 +5,9 @@
 
 
 #
-
 </div>
 <div align=center>
   <h3> Tech Stack </h3>
-  <br>
   <br>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
