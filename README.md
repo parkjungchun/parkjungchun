@@ -1,6 +1,6 @@
 # Welcome
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=%20:rocket:parkjungchun's%20Github👋🏻%20&animation=blink&fontsize=5&height=200)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=%20🚀parkjungchun's%20Github👋🏻%20&animation=blink&fontsize=5&height=200)
 
 #
 
