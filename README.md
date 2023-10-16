@@ -1,6 +1,6 @@
 # Welcome
 
-![rounded](https://capsule-render.vercel.app/api?type=rounded&color=orange&text=Welcome%20to%20parkjunchun's%20Github&fontAlignY=50&fontSize=50&height=200&stroke=000000&strokeWidth=2)
+![rounded](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20parkjunchun's%20Github&fontAlignY=50&fontSize=50&height=200&stroke=000000&strokeWidth=2)
 
 
 
