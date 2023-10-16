@@ -1,6 +1,6 @@
 # Welcome
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=%20parkjungchun's%20Github🚀%20&animation=blink&fontsize=5&height=250)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=%20parkjungchun's%20Github🚀%20&animation=fadeIn&fontsize=5&height=250)
 
 #
 
@@ -14,8 +14,7 @@
 
 <div align="center">
     <img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkjungchun%2Fhit-counter&count_bg=%2332C6CA&title_bg=%234F83CE&icon=awesomelists.svg&icon_color=%23000000&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)/>
-    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jungchunpark97@gmail.com)
-
+    <img src=https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jungchunpark97@gmail.com/>
     <img src=https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logo=Blogger&link=https://onerainj.tistory.com/&logoColor=white)](https://onerainj.tistory.com/)/>
 </div>
 <br>
