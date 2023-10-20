@@ -45,7 +45,7 @@
   	<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white" />
 	</br>
      	<img src="https://img.shields.io/badge/AutoCAD-000000?style=flat&logo=Autodesk&logoColor=white" />
-    	<img src="https://img.shields.io/badge/3D_CAD-grey"/>
+    	<img src="https://img.shields.io/badge/SolidWorks-005386?style=flat&logo=DassaultSystemes&logoColor=white" />
      	<img src="https://img.shields.io/badge/Matlab-orange"/>
       	<img src="https://img.shields.io/badge/Labview-grey"/>
   	
