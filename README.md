@@ -77,10 +77,10 @@
 - 📕 H-Mobility Class Autonomous Driving 3rd Course (2022.07.4~2022.11.25(400h))
 - 📗 K-Digital Training : Programmers Devcourse Autonomous Driving Planning & Control 1st Course (2023.04.10~2023.10.13(600h))
 
-#### Language : 
-<img src="https://img.shields.io/badge/OPIC-IM2-blue"/>
+### Language : 
+English : <img src="https://img.shields.io/badge/OPIC-IM2-blue"/>
 
-#### Hobby : 
+### Hobby : 
 ⚽Soccer, 🏀Basketball, 🏃‍♂️Marathon, 💪Fitness
 🥘Enjoying delicious food
 🎵Listen Choi Yuri's song
