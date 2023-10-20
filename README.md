@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white">
     </a>
     <a href="https://velog.io/@chun8685/">
-        <img src="https://img.shields.io/badge/Velog-555263?style=flat&logo=Velog&logoColor=green">
+        <img src="https://img.shields.io/badge/Velog-555263?style=flat&logo=Velog">
     </a>
 </div>
 
