@@ -37,8 +37,6 @@
     <img src="https://img.shields.io/badge/C-EF5C55?style=flat&logo=C&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-37814A?style=flat&logo=Celery&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/Matlab-3776AB?style=flat&logo=Matlab&logoColor=white" />
-	<img src="https://img.shields.io/badge/Simulink-3776AB?style=flat&logo=Simulink&logoColor=white" />
 </div>
 
 </br>
@@ -58,7 +56,7 @@
 <div align="center">
     <img src="https://img.shields.io/badge/AutoCAD-000000?style=flat&logo=Autodesk&logoColor=white" />
     <img src="https://img.shields.io/badge/SolidWorks-005386?style=flat&logo=DassaultSystemes&logoColor=white" />
-    <img src="https://img.shields.io/badge/Matlab-orange" />
+    <img src="https://img.shields.io/badge/Matlab-Simulink-orange" />
     <img src="https://img.shields.io/badge/Labview-FFDB00?style=flat&logo=Labview&logoColor=white" />
 </div>
 
