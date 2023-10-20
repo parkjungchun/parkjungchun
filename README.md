@@ -20,6 +20,8 @@
 	<a href="https://velog.io/@chun8685/">
 	    <img src="https://img.shields.io/badge/Velog-555263?style=flat&logo=Velog">
 	</a>
+	[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jungchunpark97@gmail.com)
+	[![Velog](https://img.shields.io/badge/Velog-555263?style=flat&logo=Velog)](https://velog.io/@chun8685/)
 
 </div>
 
