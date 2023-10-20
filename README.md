@@ -63,8 +63,8 @@
 	<p>🛠 ,, 🛠</p>
 </div>
 <div align=center>
-  	<img src="https://img.shields.io/badge/2D_CAD"/>
-    <img src="https://img.shields.io/badge/3D_CAD"/>
+  	<img src="https://img.shields.io/badge/2D_CAD-black"/>
+    <img src="https://img.shields.io/badge/3D_CAD-black"/>
 </div>
 
 #
