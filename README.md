@@ -37,6 +37,8 @@
     <img src="https://img.shields.io/badge/C-EF5C55?style=flat&logo=C&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-37814A?style=flat&logo=Celery&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Matlab-3776AB?style=flat&logo=Matlab&logoColor=white" />
+	<img src="https://img.shields.io/badge/Simulink-3776AB?style=flat&logo=Simulink&logoColor=white" />
 </div>
 
 </br>
@@ -85,7 +87,7 @@
 - 🥇 "I majored in Mechanical Engineering and minored in Future Automotive Engineering."
 - 🚐 Love Autonomous Driving
 
-## Experience
+## Education/Experience
 
 - 🎓 Tech University of Korea (2017.03~2023.02)
 - 📕 H-Mobility Class Autonomous Driving 3rd Course (2022.07.4~2022.11.25(400h))
