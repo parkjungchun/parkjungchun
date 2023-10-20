@@ -11,7 +11,7 @@
   <div align="center">
 <img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkjungchun%2Fhit-counter&count_bg=%2332C6CA&title_bg=%234F83CE&icon=awesomelists.svg&icon_color=%23000000&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)/>
 </div>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p>💌 SNS & Portfolio 💌</p>
 </div>
 
 
@@ -22,7 +22,7 @@
 
 </div>
 <div align=center>
-	<p> Platforms&Languages </p>
+	<p>💻 Platforms&Languages 💻</p>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black" />
@@ -51,14 +51,14 @@
   	
 </div>
 <div align=center>
-	<p>🛠 Simulator 🛠</p>
+	<p>🎦 Simulator 🎦</p>
 </div>
 <div align=center>
   	<img src="https://img.shields.io/badge/Gazebo-orange"/>
  	<img src="https://img.shields.io/badge/MORAI-blue"/>
 </div>
 <div align=center>
-	<p>🛠 Robot 🛠</p>
+	<p>🚙 Robot 🚙</p>
 </div>
 <div align=center>
   	<img src="https://img.shields.io/badge/TurtleBot3-green"/>
@@ -76,7 +76,7 @@
 - 🎓 Tech University of Korea (2017.03~2023.02)
 
 #### Language : 
-OPIC IM2
+<img src="https://img.shields.io/badge/OPIC-IM2-blue"/>
 
 #### Used Tools :
 Ubuntu, ROS, MORAI, GAZEBO, Turtlebot
