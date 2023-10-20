@@ -9,7 +9,6 @@
 </div>
 
 <div align="center">
-	### SNS & Portfolio
 	<p>📱 SNS & Portfolio 📱</p>
 </div>
 <div align="center">
@@ -35,8 +34,6 @@
     </a>
 </div>
 
-### Platforms & Languages
-
 <div align=center>
 	<p>💻 Platforms&Languages 💻</p>
 </div>
@@ -49,8 +46,6 @@
     <img src="https://img.shields.io/badge/C++-37814A?style=flat&logo=Celery&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 </div>
-
-### Tools
 
 <div align=center>
 	<p>🔧 Tools 🔧</p>
@@ -71,8 +66,6 @@
     <img src="https://img.shields.io/badge/Labview-FFDB00?style=flat&logo=Labview&logoColor=white" />
 </div>
 
-### Simulator
-
 <div align=center>
 	<p>🎦 Simulator 🎦</p>
 </div>
@@ -80,8 +73,6 @@
     <img src="https://img.shields.io/badge/Gazebo-orange" />
     <img src="https://img.shields.io/badge/MORAI-blue" />
 </div>
-
-### Robot
 
 <div align=center>
 	<p>🚙 Robot 🚙</p>
