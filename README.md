@@ -41,6 +41,8 @@
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	<img src="https://img.shields.io/badge/Raspiberry Pi-A22846?style=flat&logo=RaspberryPi&logoColor=white" />
   	<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white" />
+     	<img src="https://img.shields.io/badge/2D_CAD-black"/>
+    	<img src="https://img.shields.io/badge/3D_CAD-black"/>
   	
 </div>
 <div align=center>
@@ -56,15 +58,6 @@
 <div align=center>
   	<img src="https://img.shields.io/badge/TurtleBot3-green"/>
     <img src="https://img.shields.io/badge/Xycar-darkred"/>
-</div>
-
-</div>
-<div align=center>
-	<p>🛠 ,, 🛠</p>
-</div>
-<div align=center>
-  	<img src="https://img.shields.io/badge/2D_CAD-black"/>
-    <img src="https://img.shields.io/badge/3D_CAD-black"/>
 </div>
 
 #
