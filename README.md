@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/C-EF5C55?style=flat&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-37814A?style=flat&logo=Celery&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black" />
 </div>
 
 </div>
