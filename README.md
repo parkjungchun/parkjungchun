@@ -32,17 +32,21 @@
 </div>
 
 </div>
-<br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
-
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	<img src="https://img.shields.io/badge/ROS-000000?style=flat&logo=ROS&logoColor=white" />
+  	<br>
+	<img src="https://img.shields.io/badge/Raspiberry Pi-A22846?style=flat&logo=RaspberryPi&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white" />
+  	<br>
+    <img src="https://img.shields.io/badge/turtlebot3-22314E?style=flat&logo=ROS&logoColor=white" />
+    <img src="https://img.shields.io/badge/gazebo-22314E?style=flat&logo=ROS&logoColor=white" />
+  	
 </div>
 <br>
 
