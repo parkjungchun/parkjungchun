@@ -82,5 +82,7 @@ English : <img src="https://img.shields.io/badge/OPIC-IM2-blue"/>
 
 ### Hobby : 
 ⚽Soccer, 🏀Basketball, 🏃‍♂️Marathon, 💪Fitness
+</br>
 🥘Enjoying delicious food
+</br>
 🎵Listen Choi Yuri's song
