@@ -26,6 +26,7 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=black" />
   <img src="https://img.shields.io/badge/C-EF5C55?style=flat&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-37814A?style=flat&logo=Celery&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
@@ -64,57 +65,11 @@
 
 ### Who Am I
 
-- 🥇 I majored in Computer Science & Engineering
-- 🚅 My hometown is Seoul in Korea
+- 🥇 "I majored in Mechanical Engineering and minored in Future Automotive Engineering."
 
 ### Experience
 
-- 🎓 Hankuk University of global campus, Computer Science & Engineering (2015.03~2023.08)
-
-### What I Like
-
-- 📺 Movie
-- 🎮 Game
-- ✈️ Travel
-- ☕ Coffee
-
-#
-
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=gks970113-woo&theme=tokyonight&show_icons=true" width="42%" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gks970113-woo&exclude_repo=gks970113-woo.github.io&layout=compact&theme=tokyonight" width="37.5%" />
-</a>
-
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gks970113">
-
-<a href="https://opgc.me/#/users/gks970113-woo" target="_blank"><img src="https://api.opgc.me/githubs/users/gks970113-woo/tag/?theme=basic" /></a>
-
-
-
-<!--
-**gks970113-woo/gks970113-woo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#### 대학교 : 
-한국공학대학교(한국산업기술대학교)
-https://img.shields.io/badge/any_text-you_like-blue
-#### 전공 : 
-기계공학과/(부)미래자동차공학과
-
-#### 언어 : 
-python, C++
+- 🎓 Tech University of Korea (2017.03~2023.02)
 
 #### Language : 
 OPIC IM2
