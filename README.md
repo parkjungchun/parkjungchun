@@ -47,7 +47,7 @@
      	<img src="https://img.shields.io/badge/AutoCAD-000000?style=flat&logo=Autodesk&logoColor=white" />
     	<img src="https://img.shields.io/badge/SolidWorks-005386?style=flat&logo=DassaultSystemes&logoColor=white" />
      	<img src="https://img.shields.io/badge/Matlab-orange"/>
-      	<img src="https://img.shields.io/badge/Labview-grey"/>
+      	<img src="https://img.shields.io/badge/Labview-FFDB00?style=flat&logo=Labview&logoColor=white" />
   	
 </div>
 <div align=center>
