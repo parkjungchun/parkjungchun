@@ -15,8 +15,6 @@
 <div align="center">
 	<p>📱 SNS & Portfolio 📱</p>
 </div>
-
-
 <div align="center">
     <img src=https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jungchunpark97@gmail.com/>
     <img src=https://img.shields.io/badge/Velog-555263?style=flat&logo=Velog&link=https://velog.io/@chun8685/&logoColor=white)](https://velog.io/@chun8685/)/>
@@ -35,6 +33,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
+	</br>
   <img src="https://img.shields.io/badge/C-EF5C55?style=flat&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-37814A?style=flat&logo=Celery&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
