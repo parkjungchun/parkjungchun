@@ -27,7 +27,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/C-EF5C55?style=flat&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-37814A?style=flat&logo=Celery&logoColor=white" />
-  <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 </div>
 
@@ -37,10 +36,8 @@
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<br>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-  	<br>
 	<img src="https://img.shields.io/badge/Raspiberry Pi-A22846?style=flat&logo=RaspberryPi&logoColor=white" />
   	<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white" />
   	
@@ -58,6 +55,15 @@
 <div align=center>
   	<img src="https://img.shields.io/badge/TurtleBot3-green"/>
     <img src="https://img.shields.io/badge/Xycar-darkred"/>
+</div>
+
+</div>
+<div align=center>
+	<p>🛠 ,, 🛠</p>
+</div>
+<div align=center>
+  	<img src="https://img.shields.io/badge/2D_CAD-green"/>
+    <img src="https://img.shields.io/badge/3D_CAD-darkred"/>
 </div>
 
 #
