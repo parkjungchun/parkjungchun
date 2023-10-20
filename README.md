@@ -1,6 +1,6 @@
 # Welcome
 
-![rounded](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20parkjunchun's%20Github&fontAlignY=50&fontSize=50&height=200&stroke=000000&strokeWidth=2)
+![rounded](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=parkjunchun's%20Github&fontAlignY=50&fontSize=50&height=200&stroke=000000&strokeWidth=2)
 
 
 
@@ -21,6 +21,7 @@
 </div>
 
 </div>
+</br>
 <div align=center>
 	<p>💻 Platforms&Languages 💻</p>
 </div>
@@ -50,6 +51,7 @@
       	<img src="https://img.shields.io/badge/Labview-FFDB00?style=flat&logo=Labview&logoColor=white" />
   	
 </div>
+</br>
 <div align=center>
 	<p>🎦 Simulator 🎦</p>
 </div>
@@ -57,6 +59,7 @@
   	<img src="https://img.shields.io/badge/Gazebo-orange"/>
  	<img src="https://img.shields.io/badge/MORAI-blue"/>
 </div>
+</br>
 <div align=center>
 	<p>🚙 Robot 🚙</p>
 </div>
