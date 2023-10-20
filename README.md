@@ -8,6 +8,8 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkjungchun%2Fhit-counter&count_bg=%2332C6CA&title_bg=%234F83CE&icon=awesomelists.svg&icon_color=%23000000&title=VISIT&edge_flat=false" />
 </div>
 
+</br>
+
 <div align="center">
 	<p>📱 SNS & Portfolio 📱</p>
 </div>
@@ -34,6 +36,8 @@
     </a>
 </div>
 
+</br>
+
 <div align=center>
 	<p>💻 Platforms&Languages 💻</p>
 </div>
@@ -46,6 +50,8 @@
     <img src="https://img.shields.io/badge/C++-37814A?style=flat&logo=Celery&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 </div>
+
+</br>
 
 <div align=center>
 	<p>🔧 Tools 🔧</p>
@@ -66,6 +72,8 @@
     <img src="https://img.shields.io/badge/Labview-FFDB00?style=flat&logo=Labview&logoColor=white" />
 </div>
 
+</br>
+
 <div align=center>
 	<p>🎦 Simulator 🎦</p>
 </div>
@@ -73,6 +81,8 @@
     <img src="https://img.shields.io/badge/Gazebo-orange" />
     <img src="https://img.shields.io/badge/MORAI-blue" />
 </div>
+
+</br>
 
 <div align=center>
 	<p>🚙 Robot 🚙</p>
