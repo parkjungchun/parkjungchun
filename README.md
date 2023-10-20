@@ -44,10 +44,10 @@
 	<img src="https://img.shields.io/badge/Raspiberry Pi-A22846?style=flat&logo=RaspberryPi&logoColor=white" />
   	<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white" />
 	</br>
-     	<img src="https://img.shields.io/badge/2D_CAD-black"/>
-    	<img src="https://img.shields.io/badge/3D_CAD-black"/>
-     	<img src="https://img.shields.io/badge/Matlab-black"/>
-      	<img src="https://img.shields.io/badge/Labview-black"/>
+     	<img src="https://img.shields.io/badge/AutoCAD-000000?style=flat&logo=Autocad&logoColor=white" />
+    	<img src="https://img.shields.io/badge/3D_CAD-grey"/>
+     	<img src="https://img.shields.io/badge/Matlab-orange"/>
+      	<img src="https://img.shields.io/badge/Labview-grey"/>
   	
 </div>
 <div align=center>
