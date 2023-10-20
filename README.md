@@ -10,8 +10,9 @@
   <h3> Tech Stack </h3>
   <div align="center">
 <img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkjungchun%2Fhit-counter&count_bg=%2332C6CA&title_bg=%234F83CE&icon=awesomelists.svg&icon_color=%23000000&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)/>
-</br>
-  </div>
+</div>
+	</br>
+<div align="center">
 	<p>📱 SNS & Portfolio 📱</p>
 </div>
 
