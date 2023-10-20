@@ -94,7 +94,5 @@
 ### Hobby : 
 
 - ⚽Soccer, 🏀Basketball, 🏃‍♂️Marathon, 💪Fitness
-</br>
 - 🥘Enjoying delicious food
-</br>
 - 🎵Listen Choi Yuri's song
