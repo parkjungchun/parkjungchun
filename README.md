@@ -14,17 +14,9 @@
 	<p>📱 SNS & Portfolio 📱</p>
 </div>
 <div align="center">
-    <a href="mailto:jungchunpark97@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white" />
-    </a>
-    <a href="https://velog.io/@chun8685/">
-        <img src="https://img.shields.io/badge/Velog-555263?style=flat&logo=Velog&logoColor=white" />
-    </a>
-</div>
-<div align="center">
     <img src=https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jungchunpark97@gmail.com/>
     <img src=https://img.shields.io/badge/Velog-555263?style=flat&logo=Velog&link=https://velog.io/@chun8685/&logoColor=white)](https://velog.io/@chun8685/)/>
-</br>
+	</br>
 <img src=https://img.shields.io/badge/FireFightingCar-181717?style=flat&logo=Github&link=https://github.com/parkjungchun/CapstoneDesign_FirefightingCar/&logoColor=white)](https://github.com/parkjungchun/CapstoneDesign_FirefightingCar)/>
 	</br>
 	<img src=https://img.shields.io/badge/LKS-181717?style=flat&logo=Github&link=https://github.com/parkjungchun/ProgrammersDevcourse_LaneKeepingSystem/&logoColor=white)](https://github.com/parkjungchun/ProgrammersDevcourse_LaneKeepingSystem)/>
