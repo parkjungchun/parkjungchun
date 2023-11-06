@@ -16,7 +16,7 @@
 <div align="center">
     <img src=https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jungchunpark97@gmail.com/>
 	</br>
-<img src=https://img.shields.io/badge/googledrive-181717?style=flat&logo=Github&link=https://docs.google.com/presentation/d/1HY_bACFx-zjJQ0pVA2EkpuzWSU_Nm-48/edit?usp=sharing&ouid=115182605053628143146&rtpof=true&sd=true/&logoColor=white)](https://docs.google.com/presentation/d/1HY_bACFx-zjJQ0pVA2EkpuzWSU_Nm-48/edit?usp=sharing&ouid=115182605053628143146&rtpof=true&sd=true)/>
+<img src=https://img.shields.io/badge/Portpolio-181717?style=flat&logo=Portpolio&link=https://docs.google.com/presentation/d/1HY_bACFx-zjJQ0pVA2EkpuzWSU_Nm-48/edit?usp=sharing&ouid=115182605053628143146&rtpof=true&sd=true/&logoColor=white)](https://docs.google.com/presentation/d/1HY_bACFx-zjJQ0pVA2EkpuzWSU_Nm-48/edit?usp=sharing&ouid=115182605053628143146&rtpof=true&sd=true)/>
 </div>
 
 </br>
