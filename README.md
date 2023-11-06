@@ -93,4 +93,4 @@
 
 - ⚽Soccer, 🏀Basketball, 🏃‍♂️Marathon, 💪Fitness
 - 🥘Enjoying delicious food
-- 🎵Listen to Choi Yuri's songs
+- 🎵Listenning Choi Yuri's songs
