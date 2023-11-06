@@ -16,11 +16,7 @@
 <div align="center">
     <img src=https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jungchunpark97@gmail.com/>
 	</br>
-<img src=https://img.shields.io/badge/FireFightingCar-181717?style=flat&logo=Github&link=https://github.com/parkjungchun/CapstoneDesign_FirefightingCar/&logoColor=white)](https://github.com/parkjungchun/CapstoneDesign_FirefightingCar)/>
-	</br>
-	<img src=https://img.shields.io/badge/LKS-181717?style=flat&logo=Github&link=https://github.com/parkjungchun/ProgrammersDevcourse_LaneKeepingSystem/&logoColor=white)](https://github.com/parkjungchun/ProgrammersDevcourse_LaneKeepingSystem)/>
-	<img src=https://img.shields.io/badge/Obstacle_Avoidance_Driving-181717?style=flat&logo=Github&link=https://github.com/parkjungchun/ProgrammersDevcourse_ObstacleAvoidance/&logoColor=white)](https://github.com/parkjungchun/ProgrammersDevcourse_ObstacleAvoidance)/>
-    <img src=https://img.shields.io/badge/Morai_Simulator-181717?style=flat&logo=Github&link=https://github.com/parkjungchun/ProgrammersDevcourse_Morai/&logoColor=white)](https://github.com/parkjungchun/ProgrammersDevcourse_Morai)/>
+<img src=https://img.shields.io/badge/googledrive-181717?style=flat&logo=Github&link=https://docs.google.com/presentation/d/1HY_bACFx-zjJQ0pVA2EkpuzWSU_Nm-48/edit?usp=sharing&ouid=115182605053628143146&rtpof=true&sd=true/&logoColor=white)](https://docs.google.com/presentation/d/1HY_bACFx-zjJQ0pVA2EkpuzWSU_Nm-48/edit?usp=sharing&ouid=115182605053628143146&rtpof=true&sd=true)/>
 </div>
 
 </br>
