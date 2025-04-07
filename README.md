@@ -70,7 +70,7 @@
 </div>
 
 ## Who Am I
-
+- 🇰🇷 SOUTH KOREA
 - 🥇 "I majored in Mechanical Engineering and minored in Future Automotive Engineering."
 - 🚐 Love Autonomous Driving
 
