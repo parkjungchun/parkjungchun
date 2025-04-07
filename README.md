@@ -88,7 +88,7 @@
 ## Language
 
 - English : Before - <img src="https://img.shields.io/badge/OPIC-IM2-blue" />
-	    Now    - <img src="https://img.shields.io/badge/OPIC-IL-blue" /> :sob:
+-	    Now    - <img src="https://img.shields.io/badge/OPIC-IL-blue" /> :sob:
 
 ## Hobby
 
