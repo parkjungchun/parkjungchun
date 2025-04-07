@@ -55,7 +55,8 @@
 </div>
 <div align="center">
     <img src="https://img.shields.io/badge/Gazebo-orange" />
-    <img src="https://img.shields.io/badge/MORAI-blue" />
+    <img src="https://img.shields.io/badge/MORAI-black" />
+    <img src="https://img.shields.io/badge/CarMaker-blue" />
 </div>
 
 </br>
