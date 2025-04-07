@@ -87,8 +87,9 @@
 - :office: Interend at 'IPG Automotive Korea' (2024.07.01~2024.08.31(2months))
 ## Language
 
-- English : Before - <img src="https://img.shields.io/badge/OPIC-IM2-blue" />
--	    Now    - <img src="https://img.shields.io/badge/OPIC-IL-blue" /> :sob:
+- English :
+- Before - <img src="https://img.shields.io/badge/OPIC-IM2-blue" />
+- Now(studying) - <img src="https://img.shields.io/badge/OPIC-IL-blue" /> :sob:
 
 ## Hobby
 
