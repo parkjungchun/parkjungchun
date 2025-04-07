@@ -9,7 +9,7 @@
 </div>
 <div align="center">
     <img src=https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jungchunpark97@gmail.com/>
-	<img src=https://img.shields.io/badge/Portfolio-B7472A?style=flat&logo=MicrosoftPowerPoint&link=https://drive.google.com/file/d/1ZEvZ3j2ZNnq5bdKyjj6LBJkKH1JRllui/view?usp=sharing/&logoColor=white)]([https://drive.google.com/file/d/1ZEvZ3j2ZNnq5bdKyjj6LBJkKH1JRllui/view?usp=sharing](https://drive.google.com/file/d/13r_uzrL5RbeF0oYwTQ-gAd8GoYEy-VH6/view?usp=sharing))/>
+	<img src=https://img.shields.io/badge/Portfolio-B7472A?style=flat&logo=MicrosoftPowerPoint&link=https://drive.google.com/file/d/1ZEvZ3j2ZNnq5bdKyjj6LBJkKH1JRllui/view?usp=sharing/&logoColor=white)](https://drive.google.com/file/d/13r_uzrL5RbeF0oYwTQ-gAd8GoYEy-VH6/view?usp=sharing)/>
 </div>
 
 </br>
