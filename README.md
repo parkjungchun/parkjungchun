@@ -75,9 +75,9 @@
 
 ## Education/Experience
 
-- 🎓 Tech University of Korea (2017.03~2023.02)
-- 📕 H-Mobility Class Autonomous Driving 3rd Course (2022.07.4~2022.11.25(400h))
-- 📗 K-Digital Training : Programmers Devcourse Autonomous Driving Planning & Control 1st Course (2023.04.10~2023.10.13(600h))
+- 🎓 Graduated from 'Tech University of Korea' (2017.03~2023.02)
+- 📕 Have completed 'H-Mobility Class Autonomous Driving 3rd Course' (2022.07.4~2022.11.25(400h))
+- 📗 Have completed 'K-Digital Training : Programmers Devcourse Autonomous Driving Planning & Control 1st Course' (2023.04.10~2023.10.13(600h))
 - :office: Interend at 'IPG Automotive Korea' (2024.07.01~2024.08.31(2months))
 ## Language
 
